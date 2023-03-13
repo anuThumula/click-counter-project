@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: #2d3a35;
+  font-family: roboto;
+  font-weight: bold;
+  text-align: center;
+}
+
+.count {
+  color: #c20a72;
+  font-family: roboto;
+  font-weight: bold;
+}
+
+.para {
+  color: #2d3a35;
+  font-family: roboto;
+  font-size: 15px;
+  text-align: center;
+  padding-top: 7px;
+}
+
+.button-cont {
+  text-align: center;
+  padding-top: 7px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  outline: none;
+  cursor: pointer;
+  border: 0;
+  height: 6vh;
+  width: 7vw;
+}
